@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HlKmytmHfeCwj44IOp3GLyDeeHHDL7fXPekZ4KNM0Is=",
+  "Source": "AdService",
+  "BasePath": "_content/AdService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

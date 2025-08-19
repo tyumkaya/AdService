@@ -37,7 +37,7 @@ dotnet run --project AdService
 ### 1. Загрузка рекламных площадок
 Загружает рекламные площадки из текстового файла
 ```bash
-curl -X POST http://localhost:5141/ads/upload -F "file=@data.txt"
+curl -X POST http://localhost:5141/ads/upload -F "file=@AdService/data.txt"
 ```
 
 ### 2. Получение рекламных площадок по локации
